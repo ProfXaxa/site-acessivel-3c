@@ -176,3 +176,11 @@ h2 {
     background-color: var(--alto-contraste-fundo);
     color: var(--alto-contraste-texto);
 }
+.alto-contraste #tropicalia{
+    background: none;
+}
+.alto-contraste #galeria{
+    background-color: var(--alto-contraste-fundo);
+}.alto-contraste .fundo-galeria{
+    background: none;
+}
